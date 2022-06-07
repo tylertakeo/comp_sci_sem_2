@@ -1,0 +1,6 @@
+a = str(2)
+b = str(4)
+c = str(8)
+print("The first number is: " + a)
+print("The second number is: " + b)
+print("The product is: " + c)
